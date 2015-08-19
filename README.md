@@ -1,4 +1,4 @@
-## Earthquake Watch
+## GeoQuakes
 In this lab we will be using live data from the USGS (United States Geological Survey), specifically a data set showing significant earthquakes (M4.0 or greater) from the past week.
 
 **Our goal is to**:  
