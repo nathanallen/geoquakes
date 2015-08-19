@@ -4,7 +4,7 @@ body {
   background-color: #FAFCFD;
 }
 
-html, body, #map-canvas {
+html, body, #map {
   height: 100%;
   margin: 0;
   padding: 0;
