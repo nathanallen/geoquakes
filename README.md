@@ -30,7 +30,7 @@ Now, take a moment to familiarize yourself with the layout in `index.html`.
     - Follow the tutorial at [Google Maps Javascript API](https://developers.google.com/maps/documentation/javascript/tutorial)
         + Note that you will need to sign up for an API key. (See `index.html#L13`)
         + Be VERY careful when you copy paste code!
-    - Please center your map on San Francisco: `{ lat: -34.397, lng: 150.644}`
+    - Please center your map on San Francisco: `{ lat: 37.78, lng: -122.44}`
 
 #### Part 3. Add pins to your map
 Once you've got the map to show up, your next goal is to drop a single pin on San Francisco. This is a sanity check.  
